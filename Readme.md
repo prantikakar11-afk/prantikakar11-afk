@@ -1,6 +1,6 @@
 # Hi, I'm Prantika Kar 👋
 
-## AI Product Manager | Product Owner | Agile Practitioner
+## AI Product Manager | Technical Product Owner | GenAI | AI Evaluations | Product Strategy
 
 I'm passionate about building AI-powered products using AI, automation, and customer-centric product strategy.
 
