@@ -11,7 +11,7 @@ AI Product Manager with experience in Product Ownership, Agile delivery, AI Eval
 - Product Roadmapping
 - Generative AI
 - AI Evaluations
-  - LLMs
+- LLMs
 - RAG
 - n8n Automation
 - Jira
