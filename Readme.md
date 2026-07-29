@@ -7,10 +7,16 @@ AI Product Manager with experience in Product Ownership, Agile delivery, AI Eval
 - AI Product Management
 - Product Strategy
 - Agile & Scrum
+- Product Discovery
+- Product Roadmapping
 - Generative AI
 - AI Evaluations
-- Prompt Engineering
+  - LLMs
+- RAG
 - n8n Automation
+- Jira
+- Confluence
+  
 
 ## 🛠 Tools
 - ChatGPT
