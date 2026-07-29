@@ -2,8 +2,7 @@
 
 ## AI Product Manager | Technical Product Owner | GenAI | AI Evaluations | Product Strategy
 
-I'm passionate about building AI-powered products using AI, automation, and customer-centric product strategy.
-
+AI Product Manager with experience in Product Ownership, Agile delivery, AI Evaluations, and GenAI. Passionate about building AI-powered products that solve real customer problems using LLMs, automation, and data-driven product strategy.
 ## 🚀 Skills
 - AI Product Management
 - Product Strategy
